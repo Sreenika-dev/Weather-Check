@@ -9,4 +9,6 @@ Provides a search bar where the user can enter the name of any location to get t
 Allows the user to switch between Celsius and Fahrenheit units for temperature. <br>
 Provides a clean and responsive user interface that adapts to different screen sizes. <br>
 
+To use this application, you will need to obtain an API key from OpenWeatherMap and set it in the .env file. Instructions for obtaining the key are provided in the README file.
 
+This project was created as a learning exercise for React JS and APIs. Feel free to use it as a starting point for your own weather app or to suggest improvements or new features.
